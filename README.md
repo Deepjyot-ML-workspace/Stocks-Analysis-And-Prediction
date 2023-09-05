@@ -1,2 +1,1 @@
-# Finance-101---Stocks-Data-Analysis-and-Visualization
-Finance 101 - Stocks Data Analysis and Visualization
+## Analysed the stock price and later used regression for stock price prediction.
